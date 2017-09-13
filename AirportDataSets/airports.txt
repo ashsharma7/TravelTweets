@@ -1,0 +1,47 @@
+Name,City,Country,IATA,TimeZone,Twitter,Website
+Sydney Intl,Sydney,Australia,SYD,10,,
+Schwechat,Vienna,Austria,VIE,1,,
+Helsinki Vantaa,Helsinki,Finland,HEL,2,@HelsinkiAirport,helsinkiairport.fi
+Frankfurt Main,Frankfurt,Germany,FRA,1,,
+Franz Josef Strauss,Munich,Germany,MUC,1,,
+Ramstein Ab,Ramstein,Germany,RMS,1,,
+Stuttgart,Stuttgart,Germany,STR,1,,
+Tempelhof,Berlin,Germany,THF,1,,
+Indira Gandhi Intl,Delhi,India,DEL,5.5,,
+Chandigarh,Chandigarh,India,IXC,5.5,,
+Queen Alia Intl,Amman,Jordan,AMM,2,@QAIAirport,qaiairport.com
+Changi Intl,Singapore,Singapore,SIN,8,@ChangiAirport,changiairport.com
+Heathrow,London,United Kingdom,LHR,0,@HeathrowAirport,heathrow.com
+General Edward Lawrence Logan Intl,Boston,United States,BOS,-5,@BostonLogan,flylogan.com
+Bob Hope,Burbank,United States,BUR,-8,@fly_BUR,BobHopeAirport.com
+Cleveland Hopkins Intl,Cleveland,United States,CLE,-5,,
+Cincinnati Northern Kentucky Intl,Cincinnati,United States,CVG,-5,,
+Ronald Reagan Washington Natl,Washington,United States,DCA,-5,@Reagan_Airport,flyreagan.com
+Denver Intl,Denver,United States,DEN,-7,@DENAirport,flydenver.com
+Dallas Fort Worth Intl,Dallas-Fort Worth,United States,DFW,-6,@DFWAirport,dfwairport.com
+Detroit Metro Wayne Co,Detroit,United States,DTW,-5,@DTWeetin,metroairport.com
+Newark Liberty Intl,Newark,United States,EWR,-5,@NY_NJairports,panynj.gov/airports
+William P Hobby,Houston,United States,HOU,-6,@HobbyAirport,fly2houston.com/Hobby
+George Bush Intercontinental,Houston,United States,IAH,-6,@iah,fly2houston.com
+John F Kennedy Intl,New York,United States,JFK,-5,@NY_NJairports,panynj.gov/airports
+Los Angeles Intl,Los Angeles,United States,LAX,-8,@flyLAXairport,lawa.org/welcomeLAX.aspx
+La Guardia,New York,United States,LGA,-5,@NY_NJairports,panynj.gov/airports
+Long Beach,Long Beach,United States,LGB,-8,@LBAirport,lgb.org
+Chicago Midway Intl,Chicago,United States,MDW,-6,@fly2midway,lychicago.com
+Miami Intl,Miami,United States,MIA,-5,@iflymia,miami-airport.com
+Minneapolis St Paul Intl,Minneapolis,United States,MSP,-6,@mspairport,mspairport.com
+Portland Intl,Portland,United States,PDX,-8,@flypdx,flypdx.com
+Philadelphia Intl,Philadelphia,United States,PHL,-5,@PHLAirport,phl.org
+San Diego Intl,San Diego,United States,SAN,-8,,
+San Francisco Intl,San Francisco,United States,SFO,-8,@flySFO,flysfo.com
+Norman Y Mineta San Jose Intl,San Jose,United States,SJC,-8,@FlySJC,flysanjose.com
+Sacramento Intl,Sacramento,United States,SMF,-8,@SacIntlAirport,smf.aero
+John Wayne Orange County,Santa Ana,United States,SNA,-8,,
+United Airlines,Chicago,United States,UA,0,@united,www.united.com
+Delta Airlines,Atlanta,United States,DL,0,@delta,www.delta.com
+American Airlines,Dallas,United States,AA,0,@Americanair,www.aa.com
+SouthWest Airlines,Dallas,United States,SW,0,@SouthwestAir,www.southwest.com
+Air Canada,Montreal,Canada,AC,0,@AirCanada,www.aircanada.com
+Lufthansa,Cologne,Germany,LH,0,@lufthansa,www.lufthansa.com
+Air France-KLM,Paris,France,AF,0,@airfrance,www.airfranceklm.com/en/
+All Nippon Airways,Tokyo,Japan,NH,0,@FlyANA_official,www.ana.co.jp
